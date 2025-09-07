@@ -1,4 +1,4 @@
-# Neural-PDE-Solver
+# Neural-PDE-Review
 
 ## 🤝 Looking for Collaborators | 寻找协作者
 
